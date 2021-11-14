@@ -34,3 +34,4 @@ Accomplished by using:
 ### ToDo:
 
 - RapidAPI (Coinranking) should be replaced with another one before 31 Dec 2021.
+- Complete LineChart.
